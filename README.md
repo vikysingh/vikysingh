@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Vikram 👋
 
-<!--
-**vikysingh/vikysingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a frontend developer, a student and an enthusiastic learner
+- 🔭 I’m currently working on a React App
+- 🌱 I’m currently learning testing
+- 👯 I’m looking to collaborate with other frontend devs
+- 📫 Goals: master the frontend path and become highly skilled at React
+- ⚡ Fun fact: I love to craft and literature as well as painting
 
-Here are some ideas to get you started:
+### Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+### Language and tools
