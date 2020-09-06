@@ -1,3 +1,5 @@
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+
 ### Hi there, I'm Vikram 👋
 
 ### I'm a frontend developer, a student and an enthusiastic learner
@@ -20,3 +22,4 @@
 <img align="left" alt="HTML5" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/html.png" /> 
 <img align="left" alt="HTML5" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/css.png" /> 
 <img align="left" alt="HTML5" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/sass.png" /> 
+<i class="ri-reactjs-line"></i>
