@@ -15,3 +15,8 @@
 <br />
 
 ### Language and tools
+
+<img align="left" alt="Visual Studio Code" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/js.png" /> 
+<img align="left" alt="HTML5" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/html.png" /> 
+<img align="left" alt="HTML5" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/css.png" /> 
+<img align="left" alt="HTML5" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/sass.png" /> 
