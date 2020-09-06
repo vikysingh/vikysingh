@@ -9,6 +9,9 @@
 
 ### Connect with me
 
+[<img align="left" alt="vikramsingh.netlify.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="vikramsingh.netlify.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+
 <br />
 
 ### Language and tools
