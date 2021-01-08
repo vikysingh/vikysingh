@@ -15,7 +15,7 @@
 
 <br />
 
-### Linguaggio e strumenti
+### Alcune armi del mio arsenale
 
 <img align="left" width="22px" alt="Visual Studio Code" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/js.png" /> 
 <img align="left" width="22px" alt="HTML5" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/html.png" /> 
