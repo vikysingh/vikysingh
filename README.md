@@ -2,12 +2,11 @@
 
 ### Ciao, sono Vikram 👋
 
-### Sono uno sviluppatore frontend ed uno studente entusiasta
-- 🔭 Attualmente sto lavorando su una SPA in vanilla JS
-- 🌱 Attualmente sto facendo un ripasso completo della mia sapienza
-- 👯 Sto cercando di collaborare con altri sviluppatori frontend
+### Sono uno sviluppatore frontend entusiasta
+- 🔭 Attualmente sto lavorando su una piattaforma per le PWA
+- 👯 Sto cercando di collaborare con altri sviluppatori/open source
 - 📫 Obiettivi: padroneggiare il percorso di frontend e diventare altamente qualificato in React
-- ⚡ Curiosità: adoro costruire cose, letteratura e socializzare
+- ⚡ Curiosità: adoro costruire cose e socializzare
 
 ### Connettiti con me
 
