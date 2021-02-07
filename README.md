@@ -2,11 +2,9 @@
 
 ### Ciao, sono Vikram 👋
 
-### Sono uno sviluppatore frontend entusiasta
-- 🔭 Attualmente sto lavorando su una piattaforma per le PWA
-- 👯 Sto cercando di collaborare con altri sviluppatori/open source
-- 📫 Obiettivi: padroneggiare il percorso di frontend e diventare altamente qualificato in React
-- ⚡ Curiosità: adoro costruire cose e socializzare
+### Cosa sto faccendo attualmente
+- 🔭 Lavorando su una piattaforma per le PWA
+- ⚡  Imparando TypeScript
 
 ### Connettiti con me
 
