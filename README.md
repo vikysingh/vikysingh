@@ -1,19 +1,19 @@
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
 
-### Ciao, sono Vikram 👋
+### HI, I'm Vikram 👋
 
-### Cosa sto faccendo attualmente
-- 🔭 Lavorando su una piattaforma per le PWA
-- ⚡  Imparando TypeScript
+### What I'm currently working on
+- 🔭 Writing a bash script to automate some project tasks
+- ⚡  Imparando TypeScript and ExpressJS
 
-### Connettiti con me
+### Connect with me
 
 [<img align="left" alt="vikramsingh.netlify.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://vikramsingh.netlify.app/)
 [<img align="left" alt="vikramsingh.netlify.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/singhviky/)
 
 <br />
 
-### Alcune armi del mio arsenale
+### Some weapons from my arsenal
 
 <img align="left" width="22px" alt="Visual Studio Code" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/js.png" /> 
 <img align="left" width="22px" alt="HTML5" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/html.png" /> 
