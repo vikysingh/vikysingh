@@ -3,8 +3,7 @@
 ### HI, I'm Vikram 👋
 
 ### What I'm currently working on
-- 🔭 Writing a bash script to automate some project tasks
-- ⚡  Imparando TypeScript and ExpressJS
+- ⚡  Learning TypeScript and ExpressJS
 
 ### Connect with me
 
